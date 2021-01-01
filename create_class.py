@@ -1,6 +1,3 @@
-class MyClass:
-    def __init__(self):
-        pass
+A = [2, 4, 6, 7, 9, 0, 45, 3]
 
-    def calculate_sum(self):
-        pass
+# Viết hàm cộng thêm 1 vào các phần tử trong list
